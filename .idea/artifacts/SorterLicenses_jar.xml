@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SorterLicenses:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SorterLicenses_jar</output-path>
+    <root id="archive" name="SorterLicenses.jar">
+      <element id="module-output" name="SorterLicenses" />
+    </root>
+  </artifact>
+</component>
